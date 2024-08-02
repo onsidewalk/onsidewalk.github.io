@@ -1,5 +1,6 @@
 normal {
     filter: drop-shadow(1px 10px 4px #000000);
+    border-style: dashed solid;
     font-weight: bold;
     font-size: 60px;
     font-family: Montserrat;
@@ -10,3 +11,26 @@ normal {
     width: 100%;
     background-color: #3547ad;
 }
+video{
+    border-style: dashed solid;
+}
+div {
+    border-block: solid #8eb7ff 8px;
+    background-color: #00aeff;
+    padding: 10px;
+    inline-size: 1000px;
+}
+normal2 {
+    filter: drop-shadow(1px 10px 4px #000000);
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Montserrat;
+    color: rgb(255, 255, 255);
+}
+    normal3 {
+        filter: drop-shadow(1px 10px 4px #000000);
+        font-weight: bold;
+        font-size: 100px;
+        font-family: Montserrat;
+        color: rgb(255, 255, 255);
+    }
