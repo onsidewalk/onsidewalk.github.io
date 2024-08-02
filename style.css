@@ -1,5 +1,12 @@
 normal {
-    font-size: 40px;
+    filter: drop-shadow(1px 10px 4px #000000);
+    font-weight: bold;
+    font-size: 60px;
     font-family: Montserrat;
-    color: rgb(10, 118, 241);
+    color: rgb(255, 255, 255);
+    
+}html {
+    height: 100%;
+    width: 100%;
+    background-color: #3547ad;
 }
