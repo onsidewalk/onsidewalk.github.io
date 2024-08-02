@@ -9,14 +9,14 @@ normal {
 }html {
     height: 100%;
     width: 100%;
-    background-color: #3547ad;
+    background-color: #2e7bd3;
 }
 video{
     border-style: dashed solid;
 }
 div {
     border-block: solid #8eb7ff 8px;
-    background-color: #00aeff;
+    background-color: #0f63ff;
     padding: 10px;
     inline-size: 1000px;
 }
@@ -27,7 +27,7 @@ normal2 {
     font-family: Montserrat;
     color: rgb(255, 255, 255);
 }
-    normal3 {
+normal3 {
         filter: drop-shadow(1px 10px 4px #000000);
         font-weight: bold;
         font-size: 100px;
